@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="26"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/pravin-pr-18a01b258">
+  <a href="https://linkedin.com/in/pravin-pr-d14935d265">
     <img src="https://skillicons.dev/icons?i=linkedin" width="26"/>
   </a>
   &nbsp;
@@ -28,7 +28,7 @@ Currently learning **Java Full Stack Development at QSpiders, Chennai**
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,html,css,nodejs,js,react,bootstrap,mysql,git,github,intelija,eclipse,vscode" />
+<img src="https://skillicons.dev/icons?i=java,html,css,nodejs,js,react,bootstrap,mysql,git,github,eclipse,vscode" />
 
 ---
 
