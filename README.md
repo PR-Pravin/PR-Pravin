@@ -28,7 +28,7 @@ Currently learning **Java Full Stack Development at QSpiders, Chennai**
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,git,github,eclipse,vscode" />
+<img src="https://skillicons.dev/icons?i=java,html,css,nodejs,js,react,bootstrap,mysql,git,github,intelija,eclipse,vscode" />
 
 ---
 
