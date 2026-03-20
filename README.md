@@ -2,7 +2,7 @@
 
 ### Entry Level Software Engineer | Java & Web Development
 
-<p align="center">
+<p align="right">
   <a href="mailto:pravinrajamani003@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="26"/>
   </a>
@@ -28,7 +28,7 @@ Currently learning **Java Full Stack Development at QSpiders, Chennai**
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,html,css,nodejs,js,react,bootstrap,mysql,git,github,eclipse,vscode" />
+<img src="https://skillicons.dev/icons?i=java,html,css,nodejs,js,react,bootstrap,mysql,git,github,idea,eclipse,vscode" />
 
 ---
 
