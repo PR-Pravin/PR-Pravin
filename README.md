@@ -22,8 +22,6 @@
 💻 Interested in **Software Development & Software Testing**
 📍 Salem, Tamil Nadu, India
 
-Currently learning **Java Full Stack Development at QSpiders, Chennai**
-
 ---
 
 ## Tech Stack
