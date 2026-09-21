@@ -1,6 +1,6 @@
 # Hi, I'm Pravin PR
 
-### Entry Level Software Engineer | Java & Web Development
+### Software Testing Engineer | Java & Web Development
 
 <p align="right">
   <a href="mailto:pravinrajamani003@gmail.com">
